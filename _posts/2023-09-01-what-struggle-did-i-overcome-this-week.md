@@ -1,7 +1,7 @@
 ---
 title: "What struggle did I overcome this week?"
 excerpt: "This week, I struggled with Egypt's unpredictable internet!"
-date: 2023-09-0100:00:00+03:00
+show_date: true
 categories:
   - Blog
 tags:
