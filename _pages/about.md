@@ -1,6 +1,7 @@
 ---
 permalink: /about/
 title: "About"
+author_profile: true
 ---
 
 Welcome to my personal blog! Here, I share insights into my journey as a Data Engineer and my passion for the world of data. You'll discover my struggles, how I overcome them, and the lessons I learn on a weekly basis.
