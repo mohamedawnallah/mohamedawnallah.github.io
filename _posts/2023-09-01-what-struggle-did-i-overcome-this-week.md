@@ -1,6 +1,6 @@
 ---
 title: "What struggle did I overcome this week?"
-excerpt: "This week, I struggled with Egypt's unpredictable internet!"
+excerpt: "This week, I struggled with Egypt's unpredictable internet. Here is how I overcame it!"
 show_date: true
 categories:
   - Blog
@@ -28,7 +28,7 @@ Before delving into the solution, let's first understand the challenges presente
 2. **Wired Networks:** On the other hand, Wired Networks were more cost-effective, but their reliability left much to be desired. Frequent disruptions were the norm, and I needed a solution to manage these interruptions effectively.
 
 ## The Solution: ConnectMeNow
-ConnectMeNow was born out of necessity, and it's an open-source project available on GitHub. It streamlines Wi-Fi network management for macOS users, making it easy to switch between networks seamlessly and prioritize connectivity options. Here's how ConnectMeNow addresses these challenges:
+That's why I built ConnectMeNow. It's an open-source project available on GitHub. It streamlines Wi-Fi network management for macOS users, making it easy to switch between networks seamlessly and prioritize connectivity options. Here's how ConnectMeNow addresses these challenges:
 1. **Prioritizing Networks:** ConnectMeNow prioritizes the more budget-friendly wired network(s) as the primary choice and designates the reliable cellular network(s) as the backup option. This ensures you remain connected while keeping costs in check.
 2. **Customizable Network List:** Users have the flexibility to tailor their list of main and backup network SSIDs within the script, allowing it to align with their network preferences.
 3. **Password Management:** ConnectMeNow securely manages Wi-Fi passwords using macOS's Keychain, offering a safe and efficient method for accessing networks.
