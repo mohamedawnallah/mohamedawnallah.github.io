@@ -108,7 +108,7 @@ author:
   avatar           : "/assets/images/bio-photo.png"
   bio              : "Documenting My Journey: A Data Engineer's Weekly Insights."
   location         : "Cairo, Egypt"
-  email            : "mohamedmohey2352@gmail.com"
+  email            : #
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
